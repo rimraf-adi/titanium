@@ -1,0 +1,13 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+xgboost
+streamlit
+plotly
+termcolor
+torch
+torchvision
+transformers
+datasets
